@@ -127,5 +127,11 @@ de la referencia entre parentesis().
 **ejemplo**
 mi buscador favorito es [gogle].(https://google.com)
 
+pero si deseamos poner solo las ligas directas o un correo electronico podemos utlizar los simbolos \<\>
+**ejemplo**
+Documento creado por ***Jose Agustin Jimenez Castillo***
+<230365@utxicotepec.edu.mx>
+<http://www.utxicotepec.edu.mx>
+
 
 
