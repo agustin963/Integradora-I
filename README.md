@@ -81,7 +81,7 @@ Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva 
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva vEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva***
 
-#### 5. subrayado(underline])
+### 5. subrayado(underline])
 algunas vese necsitamos subrayar  texto dentro del docuemnto , para ello si bien markdown no tiene  un atajo o codificacion rapida podemos utloizar el estilo que se usa en html usando el tag /<ins> y cerrando con /</ins>
 
 **ejemplo**
