@@ -125,7 +125,7 @@ Las ligas son utilizadas para vincular elementos o referencias del proyecto
 dentro del mismo repositorio o fuera de el. y se maqueten utilizando los corcheteas[], inmediatamente depues pondremos la liga 
 de la referencia entre parentesis().
 **ejemplo**
-mi buscador favorito es [gogle].(https://google.com)
+mi buscador favorito es [google].(https://google.com)
 
 pero si deseamos poner solo las ligas directas o un correo electronico podemos utlizar los simbolos \<\>
 **ejemplo**
