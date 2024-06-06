@@ -65,11 +65,20 @@ Este texto está justificado Este texto está justificado Este texto está justi
 Este texto está justificado Este texto está justificado Este texto está justificado Este texto está justificado Este texto está justificado Este texto está justificado Este texto está justificado .
 
 ### 4.texto enfatizado (bold,italic,bold/italic)
-**Negrita: Para resaltar texto en negrita, utiliza doble asterisco ** o doble guión bajo __ antes y después del texto. 
-texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto texto texto texto texto texto textotexto texto texto texto texto texto textotexto texto texto texto texto
+Negrita: Para resaltar texto en negrita, utiliza doble asterisco ** o doble guión bajo __ antes y después del texto. 
+**texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto texto texto texto texto texto textotexto texto texto texto texto texto textotexto texto texto texto texto
 texto textotexto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto vtexto texto texto texto texto texto texto texto texto texto 
 texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto** 
 
+Cursiva: Para aplicar cursiva al texto, utiliza un solo asterisco * o un solo guión bajo _ antes y después del texto. Por ejemplo:
+_Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva 
+Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursivaEste es un texto en cursivaEste es un texto en cursiva 
+Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva_
 
+Negrita y cursiva combinadas: Si deseas aplicar negrita y cursiva al mismo tiempo, utiliza triple asterisco *** antes y después del texto. Por ejemplo:
+***Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursivaEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva
+Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva
+Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva 
+Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva vEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva ***
 
 
