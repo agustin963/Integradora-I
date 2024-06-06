@@ -17,6 +17,30 @@ Si desea marcar una separación más visual de contenidos podemos utilizarlos in
 Ejemplo:
 _ _ _
 *Esto es similar a un tag de <HR> en html 
+### 3. Párrafos (paragrapahs)
+Son utilidades para presentar grandes secciones de texto que describen  detalladamente las Secciones de la documentación del proyecto.
+Ejemplo:
+Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1
+Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1
+Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1
+Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1Este texto corresponde al párrafo 1
+
+Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al
+párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo 
+corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 
+2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al
+párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde 
+al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2Este párrafo corresponde al párrafo 2
+
+
+Lo que una página utilizaremos la etiqueta  <p>
+También podemos aplicar los estilos básicos de alineación:
+Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está 
+aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda
+por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo
+está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda por defecto.Este párrafo está aliviado ala izquierda
+por defecto.
+
 
 
 
