@@ -75,7 +75,7 @@ _Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cur
 Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursivaEste es un texto en cursivaEste es un texto en cursiva 
 Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva Este es un texto en cursiva_
 
-Negrita y cursiva combinadas: Si deseas aplicar negrita y cursiva al mismo tiempo, utiliza triple asterisco *** antes y después del texto. Por ejemplo:
+Negrita y cursiva combinadas: Si deseas aplicar negrita y cursiva al mismo tiempo, utiliza triple asterisco antes y después del texto. Por ejemplo:
 ***Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursivaEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva 
