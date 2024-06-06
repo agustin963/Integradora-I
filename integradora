@@ -12,6 +12,12 @@ Para poder realizar una buena documentación del proyecto debemos , distribuir c
 ##### encabezado de nivel 5 - similar a h5 en html
 ###### encabezado de nivel 6 - similar a h6 en html
 ####### encabezado de nivel 7- solo 6 son los límites permitidos 
+### 2. Separadores (separadores)
+Si desea marcar una separación más visual de contenidos podemos utilizarlos indicando tres caracteres de "_" continuos , en el maquetado.
+Ejemplo:
+_ _ _
+*Esto es similar a un tag de <HR> en html 
+
 
 
 
