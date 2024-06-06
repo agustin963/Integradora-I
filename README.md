@@ -120,7 +120,12 @@ para crear tu primer repocitorio en github deberas:
 50. definir si habra exclusiones de archivo a traves del archivo *.gitignore*
 3.guardar cambios
 
-
+### 7.ligas(Hipervinculo)
+Las ligas son utilizadas para vincular elementos o referencias del proyecto
+dentro del mismo repositorio o fuera de el. y se maqueten utilizando los corcheteas[], inmediatamente depues pondremos la liga 
+de la referencia entre parentesis().
+**ejemplo**
+mi buscador favorito es [gogle].(https://google.com)
 
 
 
