@@ -81,7 +81,7 @@ Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva 
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva vEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva***
 
-##### subrayado(underline])
+#### 5. subrayado(underline])
 algunas vese necsitamos subrayar  texto dentro del docuemnto , para ello si bien markdown no tiene  un atajo o codificacion rapida podemos utloizar el estilo que se usa en html usando el tag /<ins> y cerrando con /</ins>
 
 **ejemplo**
@@ -105,7 +105,7 @@ tambien podemos ingresar textos multilinea
 >--Instalar el sistema gestor de base de datos definiendo el puerto y contraseña para para el usuario ***root***
 >-- descargamos el archivo de la base de datos usando el archivo 'MySQL'
 
-###6. listas ordenadas y listas desordenadas
+### 6. listas ordenadas y listas desordenadas
 si en mustra documentacion queremos incluir infortmacion en modo de lista, un elemento tras otro podemos hacerlo utilizando los numeros con punto decimal si las deseamos ordenadas o unguin medio - si solo queremos una viñeta
 ***ejemplo**
 para crear tu primer repocitorio en github deberas:
