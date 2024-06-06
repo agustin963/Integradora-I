@@ -5,4 +5,13 @@ Markdown es el estándar utilizado por git y git hub , para marquetar de proyect
 ### encabezados y títulos (headers)
 Para poder realizar una buena documentación del proyecto debemos , distribuir correctamente los contenidos , para poder delimitar o hacer énfasis 
 (Enfatizar , es decir resaltar las secciones importantes)
+# encabezado de nivel 1 - similar a h1 en html 
+## encabezado de nivel 2 - similar a h2 en html
+### encabezado de nivel 3 - similar a h3 en html
+#### encabezado de nivel 4 - similar a h4 en html
+##### encabezado de nivel 5 - similar a h5 en html
+###### encabezado de nivel 6 - similar a h6 en html
+####### encabezado de nivel 7- solo 6 son los límites permitidos 
+
+
 
