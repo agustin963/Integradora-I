@@ -81,4 +81,37 @@ Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva 
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva vEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva***
 
+##### subrayado(underline])
+algunas vese necsitamos subrayar  texto dentro del docuemnto , para ello si bien markdown no tiene  un atajo o codificacion rapida podemos utloizar el estilo que se usa en html usando el tag /<ins> y cerrando con /</ins>
+
+**ejemplo**
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+5. cuadro para codigo o reseña (BLOCKEUOTES
+Estos elemetos son utilizados para resaltar instrucciones especificas para la instalacion, configuracion y/o inicializacion o mostrar secciones de codigo fuente . se maqueta iniciando el testo con un simbolo de mayor que (>)
+ejemplo
+*****para instalar carpetas y archivos desde una terminar de sitema operativo windowa debemos ingresar el comando 
+>c:/dir
+depues oprimimos la tecla(enter)
+
+tambien podemos ingresar textos multilinea 
+**ejemplo**
+>aqui se ingresa un conjunto de instrucciones
+>para explicar al usuario, como instalar el software que hemos diseñlado
+>y si debemos incluir viñetas para enlistar pasos podemos usar el caracter dentro del texto o documentar
+
+**ejemplo**
+>--descargar MySQL server del sitio oficial
+>--Instalar el sistema gestor de base de datos definiendo el puerto y contraseña para para el usuario ***root***
+>-- descargamos el archivo de la base de datos usando el archivo 'MySQL'
+
+###6. listas ordenadas y listas desordenadas
+si en mustra documentacion queremos incluir infortmacion en modo de lista, un elemento tras otro podemos hacerlo utilizando los numeros con punto decimal si las deseamos ordenadas o unguin medio - si solo queremos una viñeta
+***ejemplo**
+para crear tu primer repocitorio en github deberas:
+1.contar con cuenta de github
+1.
+
+
+
 
