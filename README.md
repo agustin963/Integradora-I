@@ -79,6 +79,6 @@ Negrita y cursiva combinadas: Si deseas aplicar negrita y cursiva al mismo tiemp
 ***Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursivaEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva
 Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva 
-Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva vEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva ***
+Este texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva vEste texto está en negrita y cursiva Este texto está en negrita y cursiva Este texto está en negrita y cursiva***
 
 
