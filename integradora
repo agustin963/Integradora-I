@@ -2,4 +2,7 @@
 en esta práctica aprenderemos a utilizar las herramientas de git y git hub para el control de versiones , documentaciones , desarrollo colaborativo y respaldo del proyecto para la asignatura integradora I.
 ## comandos básicos para la documentación, utilización el estándar de markdown(md)
 Markdown es el estándar utilizado por git y git hub , para marquetar de proyectos , lo que permite a usuarios y colaboradores del proyecto entender el contexto y operación del mismo.
+### encabezados y títulos (headers)
+Para poder realizar una buena documentación del proyecto debemos , distribuir correctamente los contenidos , para poder delimitar o hacer énfasis 
+(Enfatizar , es decir resaltar las secciones importantes)
 
