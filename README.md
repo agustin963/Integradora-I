@@ -133,5 +133,12 @@ Documento creado por ***Jose Agustin Jimenez Castillo***
 <230365@utxicotepec.edu.mx>
 <http://www.utxicotepec.edu.mx>
 
+#### 8.Tablas(TABLES)
+
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y 
+columnas, para maquetarlas podemos utilizar el carácter \|para delimitar las columnas y \- para 
+delimitar las filas.
+
+
 
 
