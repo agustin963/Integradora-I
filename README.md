@@ -269,7 +269,10 @@ utilizaremos la estructura de las ligas, maquetando el nombre de la imagen
 entre corchetes con un signo de admiración de cierre y la liga 
 de referencia a la imagen usando 
 parentesis.
+**EJEMPLO:**
 
+
+![LINUX](https://github.com/Josue-Martinez-Otero/Integradora-Practica02/blob/main/ospic-1.jpg)
 
 
 
