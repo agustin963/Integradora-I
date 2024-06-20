@@ -261,6 +261,14 @@ para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan
 </tr>
 
 </table>
+### 9. Imágenes
+
+Si la documentación requiere de incorporar imágenes, esquemas, modelos, fotografías, o cualquier 
+representación gráfica, 
+utilizaremos la estructura de las ligas, maquetando el nombre de la imagen
+entre corchetes con un signo de admiración de cierre y la liga 
+de referencia a la imagen usando 
+parentesis.
 
 
 
